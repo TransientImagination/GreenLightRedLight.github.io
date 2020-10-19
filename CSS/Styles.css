@@ -1,0 +1,37 @@
+@charset "utf-8";
+body {
+	background-image: url(../GIF%204.gif);
+	color: #12DB0B;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+body p {
+}
+body p {
+	color: #EA160F;
+}
+body p {
+}
+body p {
+}
+h1 {
+	color: #EA160F;
+	font-weight: normal;
+	font-size: xx-large;
+}
+h2 {
+	color: #12DB0B;
+	font-size: xx-large;
+}
+body nav a {
+	color: #12DB0B;
+	text-decoration: none;
+}
+.navlist   {
+	color: #12DB0B;
+	list-style-type: none;
+}
+.navlistitem {
+	float: left;
+}
